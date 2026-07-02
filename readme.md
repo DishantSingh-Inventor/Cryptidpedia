@@ -1,5 +1,5 @@
 # Cryptidpedia Website
-cryptidpedia.png
+(cryptidpedia.png)
 ### What this project is
 This is a simple multi-page website about cryptids. It has pages for some famous monsters like Bigfoot, Nessie, Mothman, Kraken, Chupacabra, Yeti, Jersey Devil and the Mongolian Death Worm. The homepage has cards for each of them with an explore button.
 I wanted to make something that looks like a fan site with cool myths and legendary beasts because I really like reading about them.
